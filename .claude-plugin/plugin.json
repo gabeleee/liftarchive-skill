@@ -1,0 +1,24 @@
+{
+  "name": "liftarchive",
+  "version": "1.0.0",
+  "description": "CRO audit of any web page backed by real A/B test results from LiftArchive. Finds what to fix first, shows the tests that prove it, and builds fixes as A/B test variants.",
+  "author": {
+    "name": "LiftArchive",
+    "email": "hello@liftarchive.com",
+    "url": "https://liftarchive.com"
+  },
+  "homepage": "https://liftarchive.com/cro-audit/",
+  "repository": "https://github.com/gabeleee/liftarchive-skill",
+  "license": "MIT",
+  "keywords": [
+    "cro",
+    "conversion-rate-optimization",
+    "ab-testing",
+    "landing-page",
+    "audit",
+    "saas",
+    "ecommerce",
+    "lead-gen"
+  ],
+  "privacyPolicyUrl": "https://liftarchive.com/privacy/"
+}

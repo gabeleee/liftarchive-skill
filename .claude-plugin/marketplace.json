@@ -1,0 +1,12 @@
+{
+  "name": "liftarchive",
+  "owner": { "name": "LiftArchive", "email": "hello@liftarchive.com" },
+  "metadata": { "description": "LiftArchive's CRO audit skill and A/B test database tools." },
+  "plugins": [
+    {
+      "name": "liftarchive",
+      "source": "./",
+      "description": "CRO audit of any web page backed by real A/B test results, with fixes built as A/B test variants."
+    }
+  ]
+}

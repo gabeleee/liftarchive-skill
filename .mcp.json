@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "liftarchive": { "type": "http", "url": "https://liftarchive.com/mcp/" }
+  }
+}
